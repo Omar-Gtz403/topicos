@@ -1,5 +1,5 @@
 
-package mouse_moved;
+package MouseDragged;
 
 import java.awt.Font;
 import java.awt.Graphics;
